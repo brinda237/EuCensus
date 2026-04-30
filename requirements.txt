@@ -1,0 +1,8 @@
+streamlit
+streamlit-option-menu
+streamlit-lottie
+requests
+pandas
+plotly
+xlsxwriter
+scikit-learn
